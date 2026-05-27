@@ -768,7 +768,7 @@
     "vscode-uri": "3.1.0",
     "ws": "8.21.0",
     "uuid": "^14.0.0",
-    "yaml": "2.8.2",
+    "yaml": "2.9.0",
     "yaml-language-server": "1.23.0"
   }
 }
